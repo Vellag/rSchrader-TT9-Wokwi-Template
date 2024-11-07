@@ -13,8 +13,8 @@ This Wokwi project is an 8x3 Encoder
 
 ## How to test
 
-Explain how to use your project
+How to test is a WiP
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+External hardware is a WiP
